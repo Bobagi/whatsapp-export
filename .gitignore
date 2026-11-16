@@ -1,0 +1,4 @@
+.venv/
+conversas/
+wa-*.json
+__pycache__/
